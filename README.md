@@ -14,9 +14,9 @@ You should be able to type something in the search input, that will query the AP
 
 This should update the list contacts contacts according to the search (or no search)
 
-The API endpoint is available here `https://tfuvom2ai5.execute-api.eu-west-3.amazonaws.com/production/contacts`
+The API endpoint is available here [https://tfuvom2ai5.execute-api.eu-west-3.amazonaws.com/production/contacts](https://tfuvom2ai5.execute-api.eu-west-3.amazonaws.com/production/contacts)
 
-You can search on the API by using a `search` param : `https://tfuvom2ai5.execute-api.eu-west-3.amazonaws.com/production/contacts?search=rick`
+You can search on the API by using a `search` param : [https://tfuvom2ai5.execute-api.eu-west-3.amazonaws.com/production/contacts?search=rick](https://tfuvom2ai5.execute-api.eu-west-3.amazonaws.com/production/contacts?search=rick)
 
 ## Submission
 

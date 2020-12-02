@@ -22,7 +22,7 @@ You can search on the API by using a `search` param : [https://tfuvom2ai5.execut
 
 1. Clone this repository and create a new branch `feature/search`
 2. Build everything required
-3. Push your code to a **private** repository you created on Github
+3. Push your code to a **private** repository you created on Github/Gitlab/Bitbucket...
 4. Create a Pull Request from your branch to `master` with a nice description
 5. Grant a read access to [romainsimon](https://github.com/romainsimon) & ping me at romain@datananas.com
 

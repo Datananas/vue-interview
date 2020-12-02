@@ -6,7 +6,13 @@ You can therefore use `yarn serve` to start the application (and all other defau
 
 ## Exercise
 
-The goal of this exercise is to build a page with a search field that will allow to search contacts on an API endpoint, along with the list of contacts.
+The goal of this exercise is to build a page of contacts. This page must contain:
+- A search field for earch contacts
+- A list of contacts
+
+You should be able to type something in the search input, that will query the API.
+
+This should update the list contacts contacts according to the search (or no search)
 
 The API endpoint is available here `https://tfuvom2ai5.execute-api.eu-west-3.amazonaws.com/production/contacts`
 
@@ -33,14 +39,13 @@ You can search on the API by using a `search` param : `https://tfuvom2ai5.execut
 
 Here are a few indications on how this exercise will be graded / 10
 
-- [] ESLint is passing (1 point)
-- [] Search is working (2 points)
-- [] Components-parent communication is ok (2 points)
-- [] Search handles debounce (1 point)
-- [] Loader (1 point)
-- [] API communication has been implemented (2 points)
-- [] Pull Request and commits are clear and makes it easy to review (2 points)
-- [] Bonus point: design looks nice (+1)
-- [] Bonus point: write tests (+1)
+- [ ] ESLint is passing (1 point)
+- [ ] Search is working, API communication has been implemented (2 points)
+- [ ] Components-parent communication is ok (2 points)
+- [ ] Search handles debounce (1 point)
+- [ ] App shows a loading state or loader (1 point)
+- [ ] Pull Request and commits are clear and makes it easy to review (2 points)
+- [ ] Design looks nice (scss) (1 point)
+- [ ] Bonus point: code is tested (+3)
 
 Good luck!

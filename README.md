@@ -31,7 +31,7 @@ You can search on the API by using a `search` param : [https://tfuvom2ai5.execut
 1. You do not talk about this interview to anyone
 2. You DO NOT talk about this interview to anyone. This means **never** publish your code in a public repository or give access to other. This would ruin it for us.
 2. You must create your own components and cannot use external components libs (Vuetify, Element, etc...)
-3. You can if you want add any CSS lib (Tailwind, Bootstrap, ...)
+3. You can add any CSS lib you want (Tailwind, Bootstrap, ...)
 4. You can add any lib you want (vue-x, axios, etc..) - except [volkswagen](https://www.npmjs.com/package/volkswagen)
 5. We will never reuse this code anywhere
 
